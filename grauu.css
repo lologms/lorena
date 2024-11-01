@@ -1,0 +1,27 @@
+
+body{
+    text-align: center;
+    background-color: rgb(236, 236, 236);
+}
+
+h1{
+    color: crimson;
+
+}
+h2{
+    color: rgb(0, 100, 0);
+}
+button{
+    background-color: darkgreen;
+    border-radius: 10px;
+}
+button :hover{
+   transition: 1s;
+   background-color:chartreuse ;
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+h5{
+    color: red;
+}

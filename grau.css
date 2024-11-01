@@ -1,0 +1,48 @@
+input{
+    padding: 20px;
+    width: 600px;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url(LOLOGAY.jfif)  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+    
+    
+
+}
+h2{
+    color: rgba(255, 255, 255, 0.87);
+   margin-top: 10%;
+   margin-left: 5%;
+}
+h5{
+    color: firebrick;
+}
+label{
+    color: rgba(14, 15, 15, 0.541);
+    
+}
+button{
+    background-color: rgba(255, 255, 255, 0.877);
+    border-radius: 10%;
+    width: 25%;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    transition: 1s;
+    background-color: rgb(231, 45, 45);
+}
+fieldset{
+    width: 10%;
+    margin-left: 35%;
+    background-color: rgba(152, 177, 223, 0.548);
+    border-radius: 5%;
+    
+    
+}
